@@ -1,7 +1,7 @@
 $(document).ready(function()
 {
   var $mainMenuItems = $('#main-menu ul').children('li'),
-      openedIndex = 0,
+      openedIndex = 2,
       init = function()
       {
 				bindEvents();
